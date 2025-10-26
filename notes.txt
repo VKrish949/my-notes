@@ -1,0 +1,3 @@
+My Daily Notes
+- Learn Git basics
+- Practice GitHub commands
