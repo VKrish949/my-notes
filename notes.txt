@@ -1,3 +1,5 @@
 My Daily Notes
 - Learn Git basics
 - Practice GitHub commands
+
+- Completed first GitHub exercise!
